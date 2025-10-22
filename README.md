@@ -19,3 +19,17 @@ Star Grand Hotel in Buea had a marked rise in cancellations and no-show reservat
 - Revenue, occupancy, and ADR trends
 - Platform and room class performance
 - Areas for optimization (e.g., reducing noshows and cancellations)
+
+## Solution
+This project addresses these challenges through a comprehensive data analysis approach, including Exploratory Data Analysis (EDA), key metric tracking (Revenue, ADR, RevPAR, Occupancy), and Week-over-Week (WoW) performance evaluation. By analyzing patterns in bookings, cancellations, platform usage, and room class preferences, the goal is to uncover actionable insights that drive smarter decision-making.
+
+## Dashboard 1
+- <a href="https://github.com/NCHITUBRUNO/Hospitality-Data-Analysis-Insights/blob/main/Hospitality1.png">View Dashboard</a>
+
+## Dashboard 1
+- <a href="https://github.com/NCHITUBRUNO/Hospitality-Data-Analysis-Insights/blob/main/Hospitality1.png">View Dashboard</a>
+
+## Dashboard 1
+- <a href="https://github.com/NCHITUBRUNO/Hospitality-Data-Analysis-Insights/blob/main/Hospitality1.png">View Dashboard</a>
+
+##
