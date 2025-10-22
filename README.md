@@ -5,14 +5,14 @@ Star Grand Hotel in Buea had a marked rise in cancellations and no-show reservat
 ## Dataset Used
 - <a href="https://github.com/NCHITUBRUNO/Hospitality-Data-Analysis-Insights/blob/main/Hospitality%20dataset%20-%20PoqwerBI.xlsx">Star-Grand-Dataset</a>
 # Deliverables (KPIs)
-<a href="https://github.com/NCHITUBRUNO/Hospitality-Data-Analysis-Insights/blob/main/Hospitality%20dataset%20-%20PoqwerBI.xlsx">Star-Grand-Deliverables</a>
+<a href="https://github.com/NCHITUBRUNO/Hospitality-Data-Analysis-Insights/blob/main/Deliverables_Hospitality_dataset%20.docx.pdf">Star-Grand-Deliverables</a>
 ## Create dynamic dashboards to display:
 
 - What is Total Revenue and WoW change %
 - Show Occupancy and ADR trends
 - Compare Noshow rates and cancellation analysis
 - Show RevPAR and realisation % trends
-- What is Booking trends by platform and room class
+- Analyze Booking trends by platform and room class
 
 ## Performance Reporting Requirements
 - Generate reports summarizing key findings on:
