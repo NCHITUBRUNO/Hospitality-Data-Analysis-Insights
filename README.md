@@ -1,2 +1,5 @@
 # Hospitality-Data-Analysis-Insights
 This project made use of Excel &amp; Power BI, analyzing hospitality performance through key metrics like revenue, occupancy, ADR, and RevPAR. It tracks booking and cancellation trends across platforms and room classes, providing dynamic dashboards and WoW change analysis. The goal is to uncover insights to optimize revenue and reduce no-shows.
+
+# Problem Statement
+Star Grand Hotel in Buea had a marked rise in cancellations and no-show reservations, erratic occupancy rates, and irregular booking patterns. Additionally, the hotel noticed variations in revenue among platforms and room classes, but it was unable to provide definitive explanations for these variations. Demand forecasting was further hampered by seasonal fluctuations, which made efficient resource planning challenging. Furthermore, it was difficult to see how various booking platforms and room types affected overall performance. It was difficult to monitor important indicators, comprehend visitor behavior, and pinpoint problem areas impacting income and occupancy in the absence of trustworthy performance tracking.
