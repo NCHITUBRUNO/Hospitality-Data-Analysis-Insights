@@ -25,6 +25,15 @@ This project addresses these challenges through a comprehensive data analysis ap
 
 ## Dashboard 1
 - <a href="https://github.com/NCHITUBRUNO/Hospitality-Data-Analysis-Insights/blob/main/Hospitality1.png">View Dashboard_Cancellation Rate</a>
+Key Insights
+1. Overall Performance & Capacity
+## Total Capacity: 
+The hotel has a total capacity of 954K.
+## Occupancy Split: 
+Weekend occupancy is 18% with a 70% realization rate, while weekday occupancy is lower at 13% with a 70% realization rate.
+## Revenue Difference: 
+Weekend revenue per room is higher ($\text{1,751.67}$ vs. $\text{1,726.28}$ for weekdays). This suggests that while weekday occupancy is lower, the pricing strategy or demand is relatively stable, with weekends driving higher volume and slightly better revenue per room.
+<img width="1262" height="720" alt="Hospitality1" src="https://github.com/user-attachments/assets/0a989793-4848-4e36-a478-b601cd42c280" />
 
 ## Dashboard 2
 - <a href="https://github.com/NCHITUBRUNO/Hospitality-Data-Analysis-Insights/blob/main/Hospitality-2.png">View Dashboard_Occupancy Rate</a>
