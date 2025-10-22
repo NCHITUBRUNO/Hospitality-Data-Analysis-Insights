@@ -26,14 +26,13 @@ This project addresses these challenges through a comprehensive data analysis ap
 ## Dashboard 1
 - <a href="https://github.com/NCHITUBRUNO/Hospitality-Data-Analysis-Insights/blob/main/Hospitality1.png">View Dashboard_Cancellation Rate</a>
 
-## Dashboard 1
+## Dashboard 2
 - <a href="https://github.com/NCHITUBRUNO/Hospitality-Data-Analysis-Insights/blob/main/Hospitality-2.png">View Dashboard_Occupancy Rate</a>
-
-## Dashboard 1
-- <a href="https://github.com/NCHITUBRUNO/Hospitality-Data-Analysis-Insights/blob/main/Hospitality-3.png">View Dashboard_Revenue By City</a>
 
 ## Result
 The final deliverables include dynamic dashboards and performance reports that provide a clear view of business performance, highlight areas for optimization, and support data-driven strategies for increasing guest satisfaction and profitability.
+
+<img width="1262" height="720" alt="Hospitality-3" src="https://github.com/user-attachments/assets/a349ed9d-8f10-4a21-a84a-42eda7fdcce6" />
 
 📈 Regional Revenue Analysis: Yaoundé with Highest Revenue of 199,557,262 fcfa
 
